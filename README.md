@@ -1,11 +1,10 @@
-::: {align="center"}
 # Aviral Bajpai
 
 ### `Backend Developer` · `Problem Solver` · `CSE Undergraduate`
 
 `<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+reliable+backend+systems;Designing+APIs+and+data+models;Solving+problems+with+DSA;Exploring+AI-powered+applications" alt="Typing terminal introduction" />`{=html}
 
-``` bash
+```bash
 $ whoami
 Aviral Bajpai
 
@@ -17,9 +16,7 @@ Learning, building, testing, and improving.
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-aviralb1311-181717?style=flat-square&logo=github)](https://github.com/aviralb1311)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
-:::
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/avrbi/)
 
 ------------------------------------------------------------------------
 
@@ -158,7 +155,7 @@ relational data models.
 Repository: [Expense
 Tracker](https://github.com/aviralb1311/expense-tracker)
 
-## `$ ./ problem-solving --stats`
+## `$ ./problem-solving --stats`
 
 I use data structures and algorithms to strengthen my fundamentals and
 improve the way I reason about software problems.
@@ -173,7 +170,7 @@ Core topics I practice include arrays, strings, binary search,
 recursion, backtracking, trees, graphs, greedy algorithms, and dynamic
 programming.
 
-[![LeetCode](https://img.shields.io/badge/Visit-my%20LeetCode%20profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
+[![LeetCode](https://img.shields.io/badge/Visit-my%20LeetCode%20profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/avrbi/)
 
 ## `$ git status --short`
 
@@ -188,14 +185,12 @@ I'm currently focused on:
 
 ## `$ gh stats`
 
-::: {align="center"}
 `<img height="165" src="https://github-readme-stats.vercel.app/api?username=aviralb1311&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="Aviral's GitHub statistics" />`{=html}
 `<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralb1311&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />`{=html}
 
 `<img src="https://streak-stats.demolab.com?user=aviralb1311&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />`{=html}
 
 `<img src="https://github-readme-activity-graph.vercel.app/graph?username=aviralb1311&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph" />`{=html}
-:::
 
 ## `$ connect --with aviral`
 
@@ -204,16 +199,12 @@ projects, and connecting with people working on backend systems and
 practical AI applications.
 
 -   **GitHub:** [@aviralb1311](https://github.com/aviralb1311)
--   **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
 -   **LeetCode:** [Problem-solving profile](YOUR_LEETCODE_URL)
--   **Email:** YOUR_EMAIL
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
-``` text
+```text
 "First understand the problem. Then design the solution. Then build it well."
 ```
 
 **Thanks for visiting. Have a great day!**
-:::
