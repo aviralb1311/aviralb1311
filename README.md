@@ -2,7 +2,7 @@
 
 ### `Backend Developer` · `Problem Solver` · `CSE Undergraduate`
 
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+reliable+backend+systems;Designing+APIs+and+data+models;Solving+problems+with+DSA;Exploring+AI-powered+applications" alt="Typing terminal introduction" />`{=html}
+![Typing introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+reliable+backend+systems;Designing+APIs+and+data+models;Solving+problems+with+DSA;Exploring+AI-powered+applications)
 
 ```bash
 $ whoami
