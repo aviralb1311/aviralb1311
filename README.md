@@ -157,20 +157,17 @@ Tracker](https://github.com/aviralb1311/expense-tracker)
 
 ## `$ ./problem-solving --stats`
 
-I use data structures and algorithms to strengthen my fundamentals and
-improve the way I reason about software problems.
+I use data structures and algorithms to strengthen my fundamentals and improve the way I reason about software problems.
 
-  Milestone                                 Progress
-  -------------------------- -----------------------
-  DSA problems solved                     **1,300+**
-  LeetCode problems solved                **1,000+**
-  Current practice             Striver A2Z DSA Sheet
+| Milestone | Progress |
+|:--|--:|
+| DSA problems solved | **1,300+** |
+| LeetCode problems solved | **1,000+** |
+| Current practice | Striver A2Z DSA Sheet |
 
-Core topics I practice include arrays, strings, binary search,
-recursion, backtracking, trees, graphs, greedy algorithms, and dynamic
-programming.
+Core topics I practice include arrays, strings, binary search, recursion, backtracking, trees, graphs, greedy algorithms, and dynamic programming.
 
-[![LeetCode](https://img.shields.io/badge/Visit-my%20LeetCode%20profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/avrbi/)
+**LeetCode:** [Open my profile — @avrbi](https://leetcode.com/u/avrbi/)
 
 ## `$ git status --short`
 
@@ -185,12 +182,12 @@ I'm currently focused on:
 
 ## `$ gh stats`
 
-![Aviral's GitHub statistics](https://github-readme-stats.vercel.app/api?username=aviralb1311&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aviralb1311&layout=compact&hide_border=true&theme=github_dark)
+The live GitHub stats-card providers are currently returning broken images in the profile preview, so I've removed those broken cards. The contribution-streak card below is the one that was loading correctly.
 
 ![GitHub contribution streak](https://streak-stats.demolab.com?user=aviralb1311&theme=github-dark-blue&hide_border=true)
 
-![GitHub contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aviralb1311&theme=github-compact&hide_border=true)
+- [View my GitHub contributions](https://github.com/aviralb1311?tab=overview)
+- [Explore my repositories](https://github.com/aviralb1311?tab=repositories)
 
 ## `$ connect --with aviral`
 
