@@ -16,7 +16,7 @@ Learning, building, testing, and improving.
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-aviralb1311-181717?style=flat-square&logo=github)](https://github.com/aviralb1311)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/avrbi/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/aviralb1311/)
 
 ------------------------------------------------------------------------
 
@@ -167,7 +167,7 @@ I use data structures and algorithms to strengthen my fundamentals and improve t
 
 Core topics I practice include arrays, strings, binary search, recursion, backtracking, trees, graphs, greedy algorithms, and dynamic programming.
 
-**LeetCode:** [Open my profile — @avrbi](https://leetcode.com/u/avrbi/)
+**LeetCode:** [Open my profile — @avrbi](https://leetcode.com/u/aviralb1311/)
 
 ## `$ git status --short`
 
@@ -196,7 +196,7 @@ projects, and connecting with people working on backend systems and
 practical AI applications.
 
 -   **GitHub:** [@aviralb1311](https://github.com/aviralb1311)
--   **LeetCode:** [Problem-solving profile](https://leetcode.com/u/avrbi/)
+-   **LeetCode:** [Problem-solving profile](https://leetcode.com/u/aviralb1311/)
 
 ------------------------------------------------------------------------
 
