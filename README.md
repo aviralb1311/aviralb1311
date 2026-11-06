@@ -185,12 +185,12 @@ I'm currently focused on:
 
 ## `$ gh stats`
 
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=aviralb1311&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="Aviral's GitHub statistics" />`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralb1311&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />`{=html}
+![Aviral's GitHub statistics](https://github-readme-stats.vercel.app/api?username=aviralb1311&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aviralb1311&layout=compact&hide_border=true&theme=github_dark)
 
-`<img src="https://streak-stats.demolab.com?user=aviralb1311&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />`{=html}
+![GitHub contribution streak](https://streak-stats.demolab.com?user=aviralb1311&theme=github-dark-blue&hide_border=true)
 
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=aviralb1311&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph" />`{=html}
+![GitHub contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aviralb1311&theme=github-compact&hide_border=true)
 
 ## `$ connect --with aviral`
 
@@ -199,7 +199,7 @@ projects, and connecting with people working on backend systems and
 practical AI applications.
 
 -   **GitHub:** [@aviralb1311](https://github.com/aviralb1311)
--   **LeetCode:** [Problem-solving profile](YOUR_LEETCODE_URL)
+-   **LeetCode:** [Problem-solving profile](https://leetcode.com/u/avrbi/)
 
 ------------------------------------------------------------------------
 
